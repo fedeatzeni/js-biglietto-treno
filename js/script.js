@@ -1,8 +1,8 @@
 // human code train ticket
 
-// Chiedi distanza e età all'utente
+// Chiedi distanza e l'età all'utente
 // Se l'età e maggiore di 65 applica 40% di sconto
-// Oppure l'età e minore di 18 applica 0% di sconto
+// Oppure l'età e minore di 18 applica 20% di sconto
 // Altrimenti nessuno sconto 
 // Calcola il prezzo in base alla tariffa, alla distanza e all'eventuale sconto
 // Restituisci il risultato 
